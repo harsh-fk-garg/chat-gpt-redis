@@ -1,0 +1,22 @@
+SOP For G-Auth Configuration(2nd Step Verification)
+Password Reset
+Configuring Google Authenticator
+1. Visit the below-mentioned URL to set up your Google Authenticator on AuthN
+External endpoint. Then enter your LDAP credentials and press the “Submit”
+button.
+https://authn.flipkart.net/oauth/login?idp=basic.fkldap
+2. On the 2nd Factor page, expand on Google Authenticator.
+3. Scan the QR code on your mobile as shown on your screen and then enter
+the Authenticator code to verify it.
+Your Google Authenticator has now been successfully configured.
+Which you can use to reset your password.
+Re-Configure Google Authenticator
+After login, from the home page, you can click on “View Profile” and update your
+Google Authenticator in case you want to re-setup Google Authenticator on a new
+device. In case of a lost device when you are unable to log in,
+please reach out to askit@flipkart.com.
+Use Google Authenticator for password reset
+You can visit below-mentioned URL to reset your password:
+https://authn.flipkart.net/forgot-pwd
+You will be able to see Google Authenticator in the choice of 2FA now.
+Use code from your mobile for “External AuthN”.

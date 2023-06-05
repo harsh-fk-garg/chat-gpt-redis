@@ -1,0 +1,48 @@
+Temporary VPN Access Provision through IDAM
+Project Details
+Project Name Temporary VPN Access Provision through IDAM Date: 13-02-2022
+Solution Team Team Name Date
+Prepared By: IT Rajesh Devendran 13-02-2022
+Document Revision History
+Date Version
+Revision Description
+Author
+1 V1 Initial Release Rajesh Devendran
+Project Stakeholders
+Approvers Name Title Date ETA
+Project Manager Sarathi Umakanthan 10/04/2023
+Project Owner sudhish.nair@flipkart.com
+Project Coordination Rajesh.devendran@flipkart.com
+Reviewed and Approvals
+from
+Approval Date
+Leadership Approval (Yes)
+(Yes)
+Other Approvals Team Name Date
+Current Process
+Access Provision:-
+● The Temporary VPN access will be provided when there is an internet
+issue at the site
+● The Location IT engineer will initiate the request with justifications of why
+the access needs to be given
+● Once the Ticket has been created, the IT-Command Center Engineer will
+obtain 2nd level approval from the NOC team to give Temporary VPN
+Access.
+● If more than 50 users seeking Temporary VPN in the same facility, the
+Network Team approval should be secured.
+● SLA for providing VPN access is 1 hour
+Access Removing:-
+● Once the Internet is stable or After 24 hours the IT engineer will
+remove the access from the user profile
+Proposed Solution:
+if the location IT engineer initiate the request from IDAM it auto trigger the approval notification to
+NOC team engineers,
+Post Noc team approval the temporary VPN access would be provision to the user’s
+New Solution Impact
+● Manual access provisioning and deprovisioning can be time-consuming and
+error-prone. Automating these processes can save time and reduce the chances
+of errors, allowing IT teams to focus on other critical tasks.
+● Automated access provisioning and deprovisioning can generate detailed audit
+logs that can be used for compliance reporting, security analysis, and incident
+investigation. These logs can help organizations identify potential security risks
+and take appropriate actions to mitigate them.

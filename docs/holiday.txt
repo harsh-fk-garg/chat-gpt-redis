@@ -1,0 +1,13 @@
+Karnataka Government National & Festival Holidays - 2023 (ETV)
+
+S. No Name of Holiday/Festivals Date Day Holiday Types
+1 Republic Day 26-Jan-23 Thursday MH
+2 Good Friday 7-Apr-23 Friday FH
+3 May Day 1-May-23 Monday MH
+4 Bakrid 29-Jun-23 Thursday FH
+5 Independence Day 15-Aug-23 Tuesday MH
+6 Gandhi Jayanthi 2-Oct-23 Monday MH
+7 Vijaya Dasami 24-Oct-23 Tuesday FH
+8 Kannada Rajyotsava 1-Nov-23 Wednesday MH
+9 Balipadyami/Deepavali 14-Nov-23 Tuesday FH
+10 Christmas 25-Dec-23 Monday FH

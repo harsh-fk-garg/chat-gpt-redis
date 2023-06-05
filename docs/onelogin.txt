@@ -1,0 +1,21 @@
+Self Serve AD/Onelogin Password change Procedure 
+1) Click on the below link to change your AD password, once you click on this link - https://authn.flipkart.net/ad/password, you will get the below window. 
+
+2) Enter your username(without @flipkart.com) and click on the button “Select an option and Submit” and select the option  “Update AD Password or Forgot AD Password” as shown in the image below. 
+
+3) Once you select the option “Update AD Password or Forgot AD Password” you will get a new window  with an SMS option. 
+
+a) When you click on the SMS option then you will get the window like below, Click on the options button ”Fetch No. & Send OTP” then it will send a 6-digit Authentication code to your registered mobile which is displayed on the page. 
+b) Once you received the Authentication code, enter the code in the “Authentication Code” box. 
+
+c) Enter the Old password & new password and again re-enter the new password in the respective  boxes and then click on the “Submit” button
+
+d) If you do not get the OTP, then please click on the button “Resend OTP”. 
+
+      d) After clicking on the “Submit” button then you will get the message like “Password Reset     Successful” in the right side corner as shown in the below image 
+
+6) Your password will change immediately for Onelogin access. You can start using a new password for  Onelogin access. 
+7) If you are not a VPN user, till such time you are working from Home, your Laptop password will be the  same old AD password. This is because your Laptop is not connected to the Flipkart network. 
+8) If you are a VPN user and connected to the Flipkart network over VPN, your Laptop password will change in  10-15 min. 
+
+Do Not share your password with any one in any circumstances.  Flipkart has Zero tolerance against such policy violations

@@ -1,0 +1,8 @@
+1. Onelogin Password Resolution/Resolve
+For onelogin password reset, the employee can reset the password in the link https://drive.google.com/file/d/1Q1rjpnkl3sAFz73ZJCrsLTs9_KnkoLyt/view.  
+
+2. LDAP Password Issue/Reset
+For LDAP password reset, the employee can reset the password in the link https://drive.google.com/file/d/1Q1rjpnkl3sAFz73ZJCrsLTs9_KnkoLyt/v 
+
+3. How to raise the infra requirement
+For infra/VM requirement, first fill the google form and raise the ticket in the dl-infra-computing mail id.
